@@ -23,15 +23,35 @@ including password and passkey-based authentication.
 - Python
 - HTML, CSS and JavaScript
 
-## Screen Recordings
 
-The project demonstration videos are hosted on Google Drive due to their large file sizes.
 
-**Google Drive Link:** https://drive.google.com/drive/folders/1CzJfEb7yGXG14hDj1j_CV-t4fBGgjIk8?usp=drive_link
+## Project Files and Submission Details
 
-The folder contains:
-1. SCREEN_RECORDING_1
-2. SCREEN_RECORDING_2(new)
+The following files are included as part of the project submission.
+
+### 1. Source Code
+- **SOURCE_CODE_UPDATED.zip** – Contains the complete updated source code of the Agentic AI-Based Passkey-First Authentication Policy Compiler.
+
+### 2. Project Documentation
+- **END_DOCUMENTATION_UPDATED.docx** – Contains the final project documentation, including the project details, architecture, implementation and related information.
+
+### 3. Screen Recordings
+Due to the large file sizes, the project demonstration videos are hosted on Google Drive.
+
+- **SCREEN_RECORDING_1** – Demonstration of the project.
+- **SCREEN_RECORDING_2(new)** – Updated project demonstration.
+
+**Google Drive Link:** [https://drive.google.com/drive/folders/1CzJfEb7yGXG14hDj1j_CV-t4fBGgjIk8?usp=drive_link]
+
+
+
+
+### Project Team
+
+| Roll Number | Institution |
+|---|---|
+| 25CSB1A39 | NIT Warangal |
+| 25CSB1A40 | NIT Warangal |
 
 
 ## Submitted By
