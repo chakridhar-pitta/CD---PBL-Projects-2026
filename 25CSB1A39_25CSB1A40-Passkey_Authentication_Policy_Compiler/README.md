@@ -23,6 +23,17 @@ including password and passkey-based authentication.
 - Python
 - HTML, CSS and JavaScript
 
+## Screen Recordings
+
+The project demonstration videos are hosted on Google Drive due to their large file sizes.
+
+**Google Drive Link:** https://drive.google.com/drive/folders/1CzJfEb7yGXG14hDj1j_CV-t4fBGgjIk8?usp=drive_link
+
+The folder contains:
+1. SCREEN_RECORDING_1
+2. SCREEN_RECORDING_2(new)
+
+
 ## Submitted By
 CHAKRIDHAR PITTA - 25CSB1A39
 ANUJ SINGH - 25CSB1A40
